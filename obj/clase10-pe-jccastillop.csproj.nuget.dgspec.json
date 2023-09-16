@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\jccp5\\OneDrive\\Escritorio\\ESCRITORIO\\UNIVO\\UNIVO CICLO II\\Programación Extructurada\\Clase 10\\clase10-pe-jccastillop\\clase10-pe-jccastillop.csproj": {}
+    "C:\\Users\\jccp5\\OneDrive\\Escritorio\\ESCRITORIO\\UNIVO\\UNIVO CICLO II\\Programación Extructurada\\Clase 10\\clase10-pe-jccastillop\\clase10-pe-jccastillop.csproj": {}
   },
   "projects": {
-    "c:\\Users\\jccp5\\OneDrive\\Escritorio\\ESCRITORIO\\UNIVO\\UNIVO CICLO II\\Programación Extructurada\\Clase 10\\clase10-pe-jccastillop\\clase10-pe-jccastillop.csproj": {
+    "C:\\Users\\jccp5\\OneDrive\\Escritorio\\ESCRITORIO\\UNIVO\\UNIVO CICLO II\\Programación Extructurada\\Clase 10\\clase10-pe-jccastillop\\clase10-pe-jccastillop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\jccp5\\OneDrive\\Escritorio\\ESCRITORIO\\UNIVO\\UNIVO CICLO II\\Programación Extructurada\\Clase 10\\clase10-pe-jccastillop\\clase10-pe-jccastillop.csproj",
+        "projectUniqueName": "C:\\Users\\jccp5\\OneDrive\\Escritorio\\ESCRITORIO\\UNIVO\\UNIVO CICLO II\\Programación Extructurada\\Clase 10\\clase10-pe-jccastillop\\clase10-pe-jccastillop.csproj",
         "projectName": "clase10-pe-jccastillop",
-        "projectPath": "c:\\Users\\jccp5\\OneDrive\\Escritorio\\ESCRITORIO\\UNIVO\\UNIVO CICLO II\\Programación Extructurada\\Clase 10\\clase10-pe-jccastillop\\clase10-pe-jccastillop.csproj",
+        "projectPath": "C:\\Users\\jccp5\\OneDrive\\Escritorio\\ESCRITORIO\\UNIVO\\UNIVO CICLO II\\Programación Extructurada\\Clase 10\\clase10-pe-jccastillop\\clase10-pe-jccastillop.csproj",
         "packagesPath": "C:\\Users\\jccp5\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\jccp5\\OneDrive\\Escritorio\\ESCRITORIO\\UNIVO\\UNIVO CICLO II\\Programación Extructurada\\Clase 10\\clase10-pe-jccastillop\\obj\\",
+        "outputPath": "C:\\Users\\jccp5\\OneDrive\\Escritorio\\ESCRITORIO\\UNIVO\\UNIVO CICLO II\\Programación Extructurada\\Clase 10\\clase10-pe-jccastillop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jccp5\\AppData\\Roaming\\NuGet\\NuGet.Config"
